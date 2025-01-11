@@ -1,10 +1,10 @@
-import TaskManager from "./TaskManager.jsx";
+import { TodoWrapper } from "./components/TodoWrapper.jsx";
 
 function App() {
 
   return (
     <>
-      <TaskManager />
+      <TodoWrapper />
     </>
   )
 }
