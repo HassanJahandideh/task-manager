@@ -3,8 +3,8 @@ import { TodoForm } from './TodoForm.jsx';
 
 export const TodoWrapper = () => {
   return (
-    <>
-      <TodoForm
-    </>
+    <div className="TodoWrapper">
+      <TodoForm />
+    </div>
   );
 }
